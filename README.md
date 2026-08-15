@@ -29,4 +29,4 @@ Atualmente, consolido meus conhecimentos em arquitetura de sistemas, metodologia
 
 *   💼 [LinkedIn](https://www.linkedin.com/in/diego-hernando-562b1396/)
 *   📊 [Portfólio de Projetos](https://sites.google.com/view/portfoliopowerbiepythondh/in%C3%ADcio)
-*   ✉️ diegohernandodh@hotmail.com
+
