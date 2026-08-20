@@ -1,10 +1,8 @@
 # Olá, eu sou o Diego Hernando! 👋
 
-### Engenharia de Software | Desenvolvimento Python & SQL | APIs & Integrations
+### Key User WMS/TMS | Dados & Automação Python / SQL | Eficiência operacional/BI
 
-Sou um profissional com mais de 10 anos de experiência sólida na área de Logística e Supply Chain [1]. Minha atuação destaca-se pela intersecção natural entre eficiência operacional e tecnologia, aplicando engenharia de requisitos de negócios e desenvolvimento técnico para criar soluções que escalam operações [1].
-
-Atualmente, consolido meus conhecimentos em arquitetura de sistemas, metodologias de desenvolvimento, modelagem de processos e banco de dados através do **MBA em Engenharia de Software na USP/Esalq** [1].
+Profissional com mais de 10 anos de experiência em Logística e Supply Chain, com atuação consolidada como Key User de sistemas WMS/TMS/ERP (TOTVS Protheus, Datasul, Oracle) em projetos de implantação, parametrização e integração entre operação e TI. Nos últimos anos, desenvolvi domínio técnico crescente em Python, SQL (Google Cloud BigQuery), Power BI, e Looker Studio aplicados à automação de processos e à construção de indicadores para tomada de decisão. Atualmente cursa MBA em Engenharia de Software (USP/Esalq), aprofundando conhecimentos em arquitetura de sistemas e engenharia de dados. Busca posições na interseção entre Sistemas, Dados e Operações.
 
 ---
 
