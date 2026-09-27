@@ -9,7 +9,7 @@ Profissional com mais de 10 anos de experiência em Logística e Supply Chain, c
 ## 🛠️ Tecnologias & Competências
 
 *   **Linguagens & Backend:** Python (Pandas, Numpy, automação de scripts), SQL, consumo e integração de APIs REST [3].
-*   **Dados & Analytics:** Google Cloud BigQuery, Power BI (dashboards corporativos), modelagem de KPIs, processos de ETL/ELT [3].
+*   **Dados & Analytics:** Google Cloud BigQuery, Power BI (dashboards corporativos), modelagem de KPIs e análise de dados. [3].
 *   **Sistemas Corporativos & Processos:** TOTVS WMS (Protheus, Datasul), ERP Oracle, TMS [4], AutoCAD (Desenho de Layout Ocupacional de Armazéns) [4, 5].
 *   **Metodologias:** Engenharia de Requisitos, Modelagem de Processos, Metodologias Ágeis (Scrum/Kanban) [4].
 
