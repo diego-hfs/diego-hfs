@@ -18,7 +18,7 @@ Profissional com mais de 10 anos de experiência em Logística e Supply Chain, c
 ## 🚀 Áreas de Atuação Prática
 
 *   **Automação & APIs:** Criação de scripts funcionais em Python para tratamento, limpeza e automação de grandes volumes de dados [6] e consumo de APIs REST para integração de sistemas [2].
-*   **Analytics & Business Intelligence:** Análise avançada de bancos de dados utilizando consultas SQL no Google Cloud BigQuery [7] e modelagem de painéis de Business Intelligence (BI) para tomada de decisão baseada em dados (Data-Driven) [3, 5].
+*   **Analytics & Business Intelligence:** Análise de dados utilizando SQL no Google Cloud BigQuery e modelagem de painéis de Business Intelligence (BI) para tomada de decisão baseada em dados.
 *   **Sistemas de Grande Porte (Key User):** Mapeamento de regras de negócios, parametrização operacional e validação de integrações sistêmicas (TOTVS WMS Protheus/Datasul e TMS) [2, 4].
 
 ---
